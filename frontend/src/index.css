@@ -2,19 +2,15 @@
 
 body {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  background-color: #09090b; /* Very dark, almost black */
+  background-color: #09090b;
+  /* Very dark, almost black */
   min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: flex-start;
-  padding-top: 12vh; /* Push down from the top a bit */
+  padding-top: 12vh;
+  /* Push down from the top a bit */
   color: #f7bebe;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-
-* {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
 }
